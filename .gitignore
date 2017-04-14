@@ -27,6 +27,8 @@
 *.exe
 *.out
 *.app
+*.csv
+*.xls
 .idea/
 CMakeLists.txt
 cmake-build-debug/
